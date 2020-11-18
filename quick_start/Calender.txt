@@ -1,0 +1,7 @@
+2020-11-19T11:00:00+02:00Team 29 Meeting
+2020-11-19T12:00:00+02:00Mock Interview(Gustav)
+2020-11-19T14:00:00+02:00WomenThinkCode= Social Meeting
+2020-11-23T11:30:00+02:00Zak // Zezwane
+2020-11-24T11:00:00+02:00Team 29 Meeting
+2020-11-24T14:00:00+02:00WomenThinkCode= Technical Meeting
+2020-11-25T10:00:00+02:00Team 29: Presentations
